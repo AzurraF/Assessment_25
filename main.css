@@ -4,6 +4,33 @@ h1{
     text-align: center;
 }
 h2{ 
-    font-size: 40 px;
+    font-size: 30px;
+    color:#ffc425;
+    text-align: center; 
+}
+p{  
+    font-size: 20px;
+    text-align:center;
+    color:#ffc425;
+     
+}
+header{
+    background-color:#044E8F;
 
+}
+body{
+    background-color:#003768;
+}
+
+
+button{
+    background-color: #5D9EF6;
+    color: #ffc425;
+    text-decoration-color: black;
+    align-self: center;
+}
+.button:hover{ 
+    background-color:blue;
+    color:#ffc425;
+    text-decoration: underline;
 }
