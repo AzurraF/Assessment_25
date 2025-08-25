@@ -50,10 +50,10 @@ li a:hover:not(.active) {
     color:#ffc425;
 }
 
-button{
+.button{
     background-color: #5D9EF6;
     color: black;
-    text-decoration-color: black;
+    align-items: center;
     text-align:center;
     font-size:15px;
     border-radius: 50px;
