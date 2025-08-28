@@ -9,11 +9,24 @@ h2{
     text-align: left; 
     text-decoration: underline;
 }
+h3{
+    font-size: 40px;
+    color:#ffc425;
+    text-align: center; 
+    text-decoration: underline;
+}
 p{  
     font-size: 20px;
     text-align:left;
-    color:#ffc425;
+    color:#ffb61a;
      
+}
+p2{
+    font-size: 30px;
+    text-align:center;
+    color: #ffc425;
+    padding-bottom: 40px;
+    margin:auto;
 }
 header{
     background-color:#003768;
@@ -97,4 +110,9 @@ li a:hover:not(.active) {
 .box2{
    text-align: left;
     
+}
+span{
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
 }
